@@ -1,0 +1,212 @@
+[
+  {
+    "id": 0,
+    "source": "A black box in your car?",
+    "reference": "आपकी कार में ब्लैक बॉक्स?",
+    "temperature": 0.3,
+    "prediction": "अखंड वाला नया कार?"
+  },
+  {
+    "id": 1,
+    "source": "As America's road planners struggle to find the cash to mend a crumbling highway system, many are beginning to see a solution in a little black box that fits neatly by the dashboard of your car.",
+    "reference": "जबकि अमेरिका के सड़क योजनाकार, ध्वस्त होते हुए हाईवे सिस्टम को सुधारने के लिए धन की कमी से जूझ रहे हैं, वहीं बहुत-से लोग इसका समाधान छोटे से ब्लैक बॉक्स में देख रहे हैं, जो आपकी कार के डैशबोर्ड पर सफ़ाई से फिट हो जाता है।",
+    "temperature": 0.3,
+    "prediction": "उन्होंने यह बात और उसकी चीज़ से हटाने के लिए हमने जाने के लिए नई तरह से नई स्थिति में नई नई नई बात है।"
+  },
+  {
+    "id": 2,
+    "source": "The devices, which track every mile a motorist drives and transmit that information to bureaucrats, are at the center of a controversial attempt in Washington and state planning offices to overhaul the outdated system for funding America's major roads.",
+    "reference": "यह डिवाइस, जो मोटर-चालक द्वारा वाहन चलाए गए प्रत्येक मील को ट्रैक करती है तथा उस सूचना को अधिकारियों को संचारित करती है, आजकल अमेरिका की प्रमुख सड़कों का वित्त-पोषण करने के लिए पुराने हो चुके सिस्टम का जीर्णोद्धार करने के लिए वाशिंगटन और राज्य नियोजन कार्यालय के लिए एक विवादास्पद प्रयास का मुद्दा बन चुका है।",
+    "temperature": 0.3,
+    "prediction": "वहां यह बात का विरोध करना चाहिए।"
+  },
+  {
+    "id": 3,
+    "source": "The usually dull arena of highway planning has suddenly spawned intense debate and colorful alliances.",
+    "reference": "आम तौर पर हाईवे नियोजन जैसा उबाऊ काम भी अचानक गहन बहस तथा जीवंत गठबंधनों का मुद्दा बन गया है।",
+    "temperature": 0.3,
+    "prediction": "अत्यधिक विरोधी और विरोधी संबंधों के लिए हमेशा ही विशेषताओं की तारीफ़ के लिए विशेष रूप में थी।"
+  },
+  {
+    "id": 4,
+    "source": "Libertarians have joined environmental groups in lobbying to allow government to use the little boxes to keep track of the miles you drive, and possibly where you drive them - then use the information to draw up a tax bill.",
+    "reference": "आपने द्वारा ड्राइव किए गए मील, तथा संभवतः ड्राइव किए गए स्थान का विवरण रखने - और फिर इस सूचना का उपयोग टैक्स बिल तैयार करने के लिए - सरकार को इन ब्लैक बॉक्स का उपयोग करने की अनुमति देने के पक्ष में समर्थन जुटाने के लिए लिबरेटेरियन पर्यावरणीय समूहों के साथ मिल गए हैं।",
+    "temperature": 0.3,
+    "prediction": "इसलिए यह बात करने के लिए हमारे लिए हमारे लिए यह योजना बनाने के लिए नई योजनाओं को खोलने के लिए और उन्हें नई योजनाओं को खोलने के लिए नई योजनाओं को जाता है।"
+  },
+  {
+    "id": 5,
+    "source": "The tea party is aghast.",
+    "reference": "चाय पार्टी भौचक्की है।",
+    "temperature": 0.3,
+    "prediction": "इस सभा में विशेषता है।"
+  },
+  {
+    "id": 6,
+    "source": "The American Civil Liberties Union is deeply concerned, too, raising a variety of privacy issues.",
+    "reference": "अमेरिकी नागरिक स्वतंत्रता संघ भी विभिन्न प्रकार के गोपनीयता मुद्दे उठाते हुए बहुत चिंतित है।",
+    "temperature": 0.3,
+    "prediction": "इस शासन की स्थिति के लिए यह बात है, जो हमारे राष्ट्रीय न्यायालय में रखा है।"
+  },
+  {
+    "id": 7,
+    "source": "And while Congress can't agree on whether to proceed, several states are not waiting.",
+    "reference": "जबकि कांग्रेस इस बात पर सहमत नहीं हो सकी कि आगे की कार्यवाही करनी है या नहीं, बहुत से राज्य प्रतीक्षा नहीं कर रहे।",
+    "temperature": 0.3,
+    "prediction": "अन्य केन्द्रीय केंद्रीय केंद्रीय केंद्रीय केंद्रीय केंद्रीय सरकारों को रोकना चाहिए।"
+  },
+  {
+    "id": 8,
+    "source": "They are exploring how, over the next decade, they can move to a system in which drivers pay per mile of road they roll over.",
+    "reference": "वे यह खोज कर रहे हैं कि अगले दशक में वे किस तरह से ऐसी प्रणाली में जा सकते हैं, जिसमें चालक सड़क पर तय किए गए प्रत्येक मील के लिए भुगतान करे।",
+    "temperature": 0.3,
+    "prediction": "अभी बाद में वह नई योजना की योजना के लिए उन्हें रोकते हैं।"
+  },
+  {
+    "id": 9,
+    "source": "Thousands of motorists have already taken the black boxes, some of which have GPS monitoring, for a test drive.",
+    "reference": "हजारों मोटर-चालकों ने टेस्ट ड्राइव के लिए पहले ही ब्लैक बॉक्स ले लिया है, जिसमें से कुछ में जी.पी.एस. मॉनीटरिंग है।",
+    "temperature": 0.3,
+    "prediction": "सभी लोगों के लिए यह बात करते हैं।"
+  },
+  {
+    "id": 0,
+    "source": "A black box in your car?",
+    "reference": "आपकी कार में ब्लैक बॉक्स?",
+    "temperature": 0.7,
+    "prediction": "एक विशेष कट्टम का बेंच किया गया है?"
+  },
+  {
+    "id": 1,
+    "source": "As America's road planners struggle to find the cash to mend a crumbling highway system, many are beginning to see a solution in a little black box that fits neatly by the dashboard of your car.",
+    "reference": "जबकि अमेरिका के सड़क योजनाकार, ध्वस्त होते हुए हाईवे सिस्टम को सुधारने के लिए धन की कमी से जूझ रहे हैं, वहीं बहुत-से लोग इसका समाधान छोटे से ब्लैक बॉक्स में देख रहे हैं, जो आपकी कार के डैशबोर्ड पर सफ़ाई से फिट हो जाता है।",
+    "temperature": 0.7,
+    "prediction": "भौतिक और ख़ुदा व्यापार के लिए लौह के लिए कोई योजना होना चाहिए।"
+  },
+  {
+    "id": 2,
+    "source": "The devices, which track every mile a motorist drives and transmit that information to bureaucrats, are at the center of a controversial attempt in Washington and state planning offices to overhaul the outdated system for funding America's major roads.",
+    "reference": "यह डिवाइस, जो मोटर-चालक द्वारा वाहन चलाए गए प्रत्येक मील को ट्रैक करती है तथा उस सूचना को अधिकारियों को संचारित करती है, आजकल अमेरिका की प्रमुख सड़कों का वित्त-पोषण करने के लिए पुराने हो चुके सिस्टम का जीर्णोद्धार करने के लिए वाशिंगटन और राज्य नियोजन कार्यालय के लिए एक विवादास्पद प्रयास का मुद्दा बन चुका है।",
+    "temperature": 0.7,
+    "prediction": "प्रशासनिक विकास केंद्रीय कार्यालयों को स्थापित करने के लिए विशेष परियोजनाओं के लिए मुख्य मार्ग का परीक्षण होता है।"
+  },
+  {
+    "id": 3,
+    "source": "The usually dull arena of highway planning has suddenly spawned intense debate and colorful alliances.",
+    "reference": "आम तौर पर हाईवे नियोजन जैसा उबाऊ काम भी अचानक गहन बहस तथा जीवंत गठबंधनों का मुद्दा बन गया है।",
+    "temperature": 0.7,
+    "prediction": "तथा विरोधी सदृशता के लिए हमेशा उसके विशेष तथा स्पष्टता के साथ विवाद और बीच संबंधों के बीच सहभागता के लिए केन्द्रित करते हैं।"
+  },
+  {
+    "id": 4,
+    "source": "Libertarians have joined environmental groups in lobbying to allow government to use the little boxes to keep track of the miles you drive, and possibly where you drive them - then use the information to draw up a tax bill.",
+    "reference": "आपने द्वारा ड्राइव किए गए मील, तथा संभवतः ड्राइव किए गए स्थान का विवरण रखने - और फिर इस सूचना का उपयोग टैक्स बिल तैयार करने के लिए - सरकार को इन ब्लैक बॉक्स का उपयोग करने की अनुमति देने के पक्ष में समर्थन जुटाने के लिए लिबरेटेरियन पर्यावरणीय समूहों के साथ मिल गए हैं।",
+    "temperature": 0.7,
+    "prediction": "उनकी यात्रा से नई तरहों को कुछ तो उसकी नई लाइनों का ख्याल रख सकता है।"
+  },
+  {
+    "id": 5,
+    "source": "The tea party is aghast.",
+    "reference": "चाय पार्टी भौचक्की है।",
+    "temperature": 0.7,
+    "prediction": "माता बट्टर"
+  },
+  {
+    "id": 6,
+    "source": "The American Civil Liberties Union is deeply concerned, too, raising a variety of privacy issues.",
+    "reference": "अमेरिकी नागरिक स्वतंत्रता संघ भी विभिन्न प्रकार के गोपनीयता मुद्दे उठाते हुए बहुत चिंतित है।",
+    "temperature": 0.7,
+    "prediction": "सभी राजपत्रों की नीति"
+  },
+  {
+    "id": 7,
+    "source": "And while Congress can't agree on whether to proceed, several states are not waiting.",
+    "reference": "जबकि कांग्रेस इस बात पर सहमत नहीं हो सकी कि आगे की कार्यवाही करनी है या नहीं, बहुत से राज्य प्रतीक्षा नहीं कर रहे।",
+    "temperature": 0.7,
+    "prediction": "एक अनेक सरकारों को समझना जाता है।"
+  },
+  {
+    "id": 8,
+    "source": "They are exploring how, over the next decade, they can move to a system in which drivers pay per mile of road they roll over.",
+    "reference": "वे यह खोज कर रहे हैं कि अगले दशक में वे किस तरह से ऐसी प्रणाली में जा सकते हैं, जिसमें चालक सड़क पर तय किए गए प्रत्येक मील के लिए भुगतान करे।",
+    "temperature": 0.7,
+    "prediction": "एक योजना जिसमें हमारे लिए यह पता है कि, पानी की आवाश्य छोड़ करने से पहले और अब वह निर्धारित करते हैं, इससे बात है कि वे उसकी तथा लिए उन्हें यह युद्ध का विरोध करने की तरह, वे उसकी बातों को लूटने के लिए अपने लिए उन्हें"
+  },
+  {
+    "id": 9,
+    "source": "Thousands of motorists have already taken the black boxes, some of which have GPS monitoring, for a test drive.",
+    "reference": "हजारों मोटर-चालकों ने टेस्ट ड्राइव के लिए पहले ही ब्लैक बॉक्स ले लिया है, जिसमें से कुछ में जी.पी.एस. मॉनीटरिंग है।",
+    "temperature": 0.7,
+    "prediction": "एक सूचना का परीक्षण करना चाहिए।"
+  },
+  {
+    "id": 0,
+    "source": "A black box in your car?",
+    "reference": "आपकी कार में ब्लैक बॉक्स?",
+    "temperature": 1.0,
+    "prediction": "ऑफ़ल कट्टम होगा?"
+  },
+  {
+    "id": 1,
+    "source": "As America's road planners struggle to find the cash to mend a crumbling highway system, many are beginning to see a solution in a little black box that fits neatly by the dashboard of your car.",
+    "reference": "जबकि अमेरिका के सड़क योजनाकार, ध्वस्त होते हुए हाईवे सिस्टम को सुधारने के लिए धन की कमी से जूझ रहे हैं, वहीं बहुत-से लोग इसका समाधान छोटे से ब्लैक बॉक्स में देख रहे हैं, जो आपकी कार के डैशबोर्ड पर सफ़ाई से फिट हो जाता है।",
+    "temperature": 1.0,
+    "prediction": "चीज़नी सुंदरता और और ख़ुदा हो जाती हैं।"
+  },
+  {
+    "id": 2,
+    "source": "The devices, which track every mile a motorist drives and transmit that information to bureaucrats, are at the center of a controversial attempt in Washington and state planning offices to overhaul the outdated system for funding America's major roads.",
+    "reference": "यह डिवाइस, जो मोटर-चालक द्वारा वाहन चलाए गए प्रत्येक मील को ट्रैक करती है तथा उस सूचना को अधिकारियों को संचारित करती है, आजकल अमेरिका की प्रमुख सड़कों का वित्त-पोषण करने के लिए पुराने हो चुके सिस्टम का जीर्णोद्धार करने के लिए वाशिंगटन और राज्य नियोजन कार्यालय के लिए एक विवादास्पद प्रयास का मुद्दा बन चुका है।",
+    "temperature": 1.0,
+    "prediction": "एक किसी अध्यात्मिक काम की परंपरा की विकास प्रशासन को अपनी व्यवस्था के प्रदूषित केंद्रों का लिए सुरक्षा बल (प्रतीक्ष के केंद्र के विभिन्न प्रयास से) आगाड़े होता है।"
+  },
+  {
+    "id": 3,
+    "source": "The usually dull arena of highway planning has suddenly spawned intense debate and colorful alliances.",
+    "reference": "आम तौर पर हाईवे नियोजन जैसा उबाऊ काम भी अचानक गहन बहस तथा जीवंत गठबंधनों का मुद्दा बन गया है।",
+    "temperature": 1.0,
+    "prediction": "रिपोर्ट की ऐसा सफल प्रतिक्रियाओं से चलंत रहा था।"
+  },
+  {
+    "id": 4,
+    "source": "Libertarians have joined environmental groups in lobbying to allow government to use the little boxes to keep track of the miles you drive, and possibly where you drive them - then use the information to draw up a tax bill.",
+    "reference": "आपने द्वारा ड्राइव किए गए मील, तथा संभवतः ड्राइव किए गए स्थान का विवरण रखने - और फिर इस सूचना का उपयोग टैक्स बिल तैयार करने के लिए - सरकार को इन ब्लैक बॉक्स का उपयोग करने की अनुमति देने के पक्ष में समर्थन जुटाने के लिए लिबरेटेरियन पर्यावरणीय समूहों के साथ मिल गए हैं।",
+    "temperature": 1.0,
+    "prediction": "ऑटोलॉजीओंों को चुरा जाए और बड़े बड़े पानी, जो लोगों ने के लिए आवेदना जाता है, और जब वे लोगों में पैर दे सकते हैं तो वे खुदा रहते हैं, के लिए ऊपर और सभी पैरकों और बड़े कार्यों के रूप में न कुछ बच्चों की जाता है।"
+  },
+  {
+    "id": 5,
+    "source": "The tea party is aghast.",
+    "reference": "चाय पार्टी भौचक्की है।",
+    "temperature": 1.0,
+    "prediction": "फ़र्फ़ में इस कार्यक्रम में सभी सितारों हो रहता है."
+  },
+  {
+    "id": 6,
+    "source": "The American Civil Liberties Union is deeply concerned, too, raising a variety of privacy issues.",
+    "reference": "अमेरिकी नागरिक स्वतंत्रता संघ भी विभिन्न प्रकार के गोपनीयता मुद्दे उठाते हुए बहुत चिंतित है।",
+    "temperature": 1.0,
+    "prediction": "अपनी राज्य के राष्ट्रपति संघीय सेवाओं के संभावित करने से भिन्न और विवादों को विरोध करने के लिए इस उपयोग के साथ ख़ुदा करने और ख़ुदा नहीं है।"
+  },
+  {
+    "id": 7,
+    "source": "And while Congress can't agree on whether to proceed, several states are not waiting.",
+    "reference": "जबकि कांग्रेस इस बात पर सहमत नहीं हो सकी कि आगे की कार्यवाही करनी है या नहीं, बहुत से राज्य प्रतीक्षा नहीं कर रहे।",
+    "temperature": 1.0,
+    "prediction": "ये सभा ने कहा कि सत्ता में पास दोनों केंद्रीय सभाओं को संवेदन करने वाले भारतीय भारत के सरकार को कालिफ़ करने लगे।"
+  },
+  {
+    "id": 8,
+    "source": "They are exploring how, over the next decade, they can move to a system in which drivers pay per mile of road they roll over.",
+    "reference": "वे यह खोज कर रहे हैं कि अगले दशक में वे किस तरह से ऐसी प्रणाली में जा सकते हैं, जिसमें चालक सड़क पर तय किए गए प्रत्येक मील के लिए भुगतान करे।",
+    "temperature": 1.0,
+    "prediction": "मुझे उन्होंने उसका समझना कि एक समूह अवश्यक किसान में न उन साथ उन्हें पैले पर प्रतिबंध करने के लिए मदद भॉगा करते हैं।"
+  },
+  {
+    "id": 9,
+    "source": "Thousands of motorists have already taken the black boxes, some of which have GPS monitoring, for a test drive.",
+    "reference": "हजारों मोटर-चालकों ने टेस्ट ड्राइव के लिए पहले ही ब्लैक बॉक्स ले लिया है, जिसमें से कुछ में जी.पी.एस. मॉनीटरिंग है।",
+    "temperature": 1.0,
+    "prediction": "अत्यधिक लोगों से जिनके लिए कोई भी न होया है।"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "dataset": "cfilt/iitb-english-hindi",
+  "seed": 4403,
+  "sizes": {
+    "train": 5000,
+    "validation": 200,
+    "test": 200
+  },
+  "filter": "NFC, whitespace collapse, nonempty, <=600 chars, unique English source across splits"
+}
